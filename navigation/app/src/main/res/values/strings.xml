@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">inputControl</string>
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="order_label_text">Order:</string>
+    <string name="enter_address_hint">Enter your address</string>
+    <string name="enter_phone_hint">Enter your phone</string>
+    <string name="enter_note_hint">Enter your note</string>
+    <string name="same_day_messenger_service">same_day_messenger_service</string>
+    <string name="next_day_ground_delivery">next_day_ground_delivery</string>
+    <string name="pick_up">pick_up</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="message">输入内容</string>
+    <string name="people">接收者</string>
+</resources>
